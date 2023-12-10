@@ -1,0 +1,38 @@
+1.nama db:eo
+2.export db
+3.daftar user
+4.login
+ -admin
+  	email:admin@mail.com
+	ps:admin
+ -user1(testing)
+	email:janata@mail.com
+	ps:12345678
+ -user2(testing)
+	email:git@mail.com
+	ps:12345678
+
+5.admin booking produk
+	-crud
+
+6.booking (user)
+	-form booking
+	-input request	
+	-tgl mulai booking min 7 hari sebelum hari h(validasi sistem)
+	-tgl selesai booking tidak boleh kurang dari tgl mulai bookng(validasi sistem)
+	-tunggu konfirmasi dari admin
+		-booking penuh (opsi ajukan booking ulang)
+		-tersedia lakukan pembayaran (validasi admin)
+			-pembayaran tidak boleh kurang dari tgl booking dibuat(validasi sistem)
+7. admin booking
+	-konfirmasi booking
+	-input fix harga sesuai request
+	-konfirmasi pembayaran
+
+ada yang mau ditanyakan mba actaa??
+jika tidak semoga selalu bahagia dan dilancarkan sidangnya 👍( ͡❛ ͜ʖ ͡❛👍)
+nitip salam dari gitin ☜(ˆ▿ˆc)
+
+tambahan (php v:7.4)
+	
+	
